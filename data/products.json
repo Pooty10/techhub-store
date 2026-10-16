@@ -1,0 +1,56 @@
+[
+  {
+    "id": "p1",
+    "name": "UltraFast Laptop 15\"",
+    "price": 999.99,
+    "category": "Laptops",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=1200&q=80&auto=format&fit=crop",
+    "description": "A powerful 15-inch laptop with the latest CPU, fast SSD storage, and long battery life."
+  },
+  {
+    "id": "p2",
+    "name": "ProNoise Headphones",
+    "price": 199.99,
+    "category": "Audio",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?w=1200&q=80&auto=format&fit=crop",
+    "description": "Over-ear noise-cancelling headphones with premium sound quality."
+  },
+  {
+    "id": "p3",
+    "name": "Smart LED TV 55\"",
+    "price": 599.99,
+    "category": "TV & Home Theater",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?w=1200&q=80&auto=format&fit=crop",
+    "description": "55-inch 4K HDR Smart TV with streaming apps and voice control."
+  },
+  {
+    "id": "p4",
+    "name": "Wireless Mouse",
+    "price": 29.99,
+    "category": "Accessories",
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=1200&q=80&auto=format&fit=crop",
+    "description": "Ergonomic wireless mouse with long battery life."
+  },
+  {
+    "id": "p5",
+    "name": "Gaming Keyboard",
+    "price": 129.99,
+    "category": "Accessories",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&q=80&auto=format&fit=crop",
+    "description": "Mechanical keyboard with RGB lighting and programmable keys."
+  },
+  {
+    "id": "p6",
+    "name": "Smartphone X Pro",
+    "price": 899.99,
+    "category": "Phones",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=1200&q=80&auto=format&fit=crop",
+    "description": "Flagship smartphone with advanced camera system and OLED display."
+  }
+]
